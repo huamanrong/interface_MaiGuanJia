@@ -1,0 +1,910 @@
+[INFO]2020-02-25 09:45:05,011 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:45:05,011 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:45:05,011 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 09:46:46,091 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:46:46,091 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:46:46,091 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 09:50:31,709 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:50:31,709 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:50:31,710 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 09:54:52,689 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:54:52,689 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:54:52,689 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 09:56:12,453 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:56:12,453 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:56:12,453 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 09:57:18,092 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 09:57:18,093 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 09:57:18,093 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:02:29,904 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:02:29,904 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:02:29,904 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:47:22,989 test_http_request 行数:35 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:47:22,989 test_http_request 行数:39 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:47:22,990 test_http_request 行数:40 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:37,386 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:37,386 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:37,386 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:37,397 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:37,397 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:37,874 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:37,876 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:37,915 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:37,916 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:37,916 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:37,945 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:37,945 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:37,998 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:38,000 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:38,005 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:38,006 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:38,006 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:38,024 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:38,024 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:38,063 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:38,065 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:38,068 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:38,068 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:38,069 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:38,079 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:38,079 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:52,506 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:52,506 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:52,506 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:52,517 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:52,518 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:52,813 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:52,815 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:52,818 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:52,818 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:52,818 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:52,827 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:52,828 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:52,863 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:52,864 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:52,866 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:52,866 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:52,866 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:52,876 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:52,876 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:52,912 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:52,913 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:52,915 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:52,915 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:52,915 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:52,923 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:52,923 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:52,959 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:52,960 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:49:52,962 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:49:52,962 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:49:52,962 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:49:52,972 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:49:52,972 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:49:53,004 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"org.springframework.validation.BeanPropertyBindingResult: 1 errors\nField error in object 'personInfoVO' on field 'workerId': rejected value [increase_1625]; codes [typeMismatch.personInfoVO.workerId,typeMismatch.workerId,typeMismatch.java.lang.Integer,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [personInfoVO.workerId,workerId]; arguments []; default message [workerId]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Integer' for property 'workerId'; nested exception is java.lang.NumberFormatException: For input string: \"increase_1625\"]","data":""}
+[INFO]2020-02-25 10:49:53,006 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:56:08,928 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:56:08,929 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:56:08,929 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:56:08,931 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:56:08,934 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:56:08,934 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:56:08,934 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:56:08,935 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:56:08,938 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:56:08,938 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:56:08,938 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:56:08,939 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:56:08,941 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:56:08,941 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:56:08,941 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:56:08,942 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:56:08,944 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:56:08,944 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:56:08,944 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:56:08,946 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:57:37,433 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:57:37,433 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:57:37,433 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:57:37,443 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:57:37,443 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:57:38,013 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:57:38,018 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:57:38,026 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:57:38,027 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:57:38,027 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:57:38,041 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:57:38,042 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:57:38,094 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:57:38,096 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:57:38,098 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:57:38,098 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:57:38,099 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:57:38,109 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:57:38,110 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:57:38,154 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:57:38,155 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:57:38,157 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:57:38,157 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:57:38,158 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:57:38,168 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:57:38,168 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:57:38,211 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:57:38,213 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:57:38,215 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:57:38,215 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:57:38,215 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:57:38,224 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:57:38,225 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:57:38,270 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:57:38,273 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:58:06,829 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:58:06,830 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:58:06,830 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:58:06,836 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:58:06,836 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:58:07,142 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:58:07,143 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:58:07,146 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:58:07,146 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:58:07,146 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:58:07,150 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:58:07,150 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:58:07,198 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:58:07,199 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:58:07,201 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:58:07,201 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:58:07,202 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:58:07,205 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:58:07,205 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:58:07,252 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:58:07,253 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:58:07,255 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:58:07,255 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:58:07,255 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:58:07,259 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:58:07,260 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:58:07,299 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:58:07,300 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 10:58:07,302 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 10:58:07,302 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 10:58:07,302 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 10:58:07,308 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 10:58:07,309 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 10:58:07,350 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 10:58:07,352 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:00,710 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:00,710 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:00,710 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:00,711 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:00,711 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:01,026 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:01,026 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:01,026 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:01,026 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:01,063 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:01,251 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:01,251 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:01,251 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:01,252 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:01,252 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:01,299 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:01,299 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:01,299 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:01,299 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:01,347 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:01,350 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:01,350 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:01,350 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:01,351 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:01,351 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:01,393 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:01,393 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:01,393 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:01,393 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:01,440 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:01,442 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:01,443 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:01,443 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:01,446 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:01,446 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:01,488 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:01,488 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:01,489 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:01,489 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:01,528 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:01,532 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:01,532 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:01,532 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:01,533 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:01,533 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:01,575 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:01,575 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:01,575 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:01,575 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:01,622 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:33,277 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:33,278 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:33,278 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:33,279 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:33,279 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:33,594 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:33,594 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:33,595 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:33,595 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:33,690 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:33,693 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:33,693 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:33,693 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:33,694 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:33,694 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:33,736 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:33,736 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:33,736 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:33,736 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:33,818 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:33,821 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:33,821 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:33,821 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:33,822 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:33,822 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:33,868 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:33,868 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:33,868 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:33,868 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:33,957 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:33,959 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:33,960 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:33,960 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:33,960 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:33,960 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:34,010 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:34,010 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:34,010 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:34,011 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:34,116 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:02:34,118 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:02:34,118 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:02:34,118 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:02:34,119 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:02:34,119 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:02:34,160 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:02:34,160 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:02:34,160 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:02:34,160 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:02:34,242 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:04,979 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:04,979 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:04,979 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:04,979 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:04,980 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:04,980 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:04,980 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:04,980 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:04,981 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:04,981 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:04,981 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:04,981 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,334 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,334 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,335 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:08:05,335 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:08:05,335 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,335 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,335 test_http_request 行数:82 [日志信息]:结果断言错误
+[ERROR]2020-02-25 11:08:05,335 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:08:05,435 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,435 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,439 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,439 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,439 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,439 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,439 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,439 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,439 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,440 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,440 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,440 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,440 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,440 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,440 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,484 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,484 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,484 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:08:05,484 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:08:05,484 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,484 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,484 test_http_request 行数:82 [日志信息]:结果断言错误
+[ERROR]2020-02-25 11:08:05,484 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:08:05,577 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,577 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,580 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,580 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,581 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,581 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,581 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,581 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,581 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,581 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,582 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,582 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,582 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,582 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,630 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,630 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,631 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:08:05,631 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:08:05,631 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,631 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,631 test_http_request 行数:82 [日志信息]:结果断言错误
+[ERROR]2020-02-25 11:08:05,631 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:08:05,718 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,718 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,720 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,720 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,721 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,721 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,721 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,721 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,721 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,721 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,721 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,721 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,722 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,722 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,763 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,763 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,763 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:08:05,763 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:08:05,763 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,763 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,764 test_http_request 行数:82 [日志信息]:结果断言错误
+[ERROR]2020-02-25 11:08:05,764 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:08:05,842 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,842 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,844 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:08:05,844 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,844 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,844 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,844 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:08:05,845 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,845 config_element 行数:41 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:08:05,845 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,845 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:08:05,845 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,845 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:08:05,846 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,846 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:08:05,891 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,891 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:08:05,891 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:08:05,891 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:08:05,891 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,891 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:08:05,892 test_http_request 行数:82 [日志信息]:结果断言错误
+[ERROR]2020-02-25 11:08:05,892 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:08:05,971 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:08:05,971 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:11:16,465 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:11:16,466 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:11:16,466 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:11:16,466 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,466 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:11:16,466 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,466 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:11:16,467 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:11:16,467 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:11:16,780 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:11:16,780 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:11:16,780 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:11:16,780 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:11:16,862 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:11:16,865 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:11:16,865 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:11:16,865 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:11:16,866 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,866 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:11:16,866 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,866 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:11:16,866 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:11:16,866 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:11:16,910 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:11:16,911 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:11:16,911 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:11:16,911 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:11:16,992 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:11:16,994 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:11:16,994 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:11:16,995 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:11:16,995 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,995 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:11:16,995 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:16,995 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:11:16,995 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:11:16,995 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:11:17,035 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:11:17,035 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:11:17,036 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:11:17,036 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:11:17,126 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:11:17,128 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:11:17,129 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:11:17,129 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:11:17,129 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:17,129 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:11:17,129 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:17,129 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:11:17,130 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:11:17,130 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:11:17,170 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:11:17,170 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:11:17,170 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:11:17,170 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:11:17,250 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:11:17,252 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:11:17,252 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:11:17,252 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:11:17,253 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:17,253 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:11:17,253 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:11:17,253 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:11:17,253 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:11:17,253 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:11:17,294 test_http_request 行数:57 [日志信息]:返回值为：{"code":-1,"message":"Can't read input file!","data":""}
+[INFO]2020-02-25 11:11:17,294 test_http_request 行数:74 [日志信息]:开始断言
+[ERROR]2020-02-25 11:11:17,294 post_processor 行数:44 [日志信息]:对比错误,错误信息:['实际值 code=-1 不等于预期值 code=0']
+[ERROR]2020-02-25 11:11:17,294 test_http_request 行数:82 [日志信息]:结果断言错误
+[INFO]2020-02-25 11:11:17,387 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:16:58,268 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:16:58,268 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '51343619880601950X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:16:58,268 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:16:58,268 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,268 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:16:58,269 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,269 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:16:58,269 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:16:58,269 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:16:58,270 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:16:58,727 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1625,"name":"刘圣做","idcard":"51343619880601950X","corpname":"上海笑果文化传媒有限公司","teamName":"总包-综艺班组","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":299,"uploadStatus":null,"personGuid":"338BE319614B42F0A3DC6323CA652A32","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:16:58,727 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:16:58,727 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:16:58,728 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:16:58,779 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:16:58,786 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:16:58,786 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806014928', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:16:58,786 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:16:58,786 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,786 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:16:58,786 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,786 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:16:58,787 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:16:58,787 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:16:58,787 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:16:58,898 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1626,"name":"温诗登","idcard":"513436198806014928","corpname":"上海笑果文化传媒有限公司","teamName":"总包-综艺班组","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":299,"uploadStatus":null,"personGuid":"19940FF1EFCD4AA085D4BF46041AE5A7","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:16:58,899 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:16:58,899 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:16:58,899 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:16:58,943 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:16:58,948 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:16:58,949 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806013423', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:16:58,949 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:16:58,949 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,949 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:16:58,949 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:58,950 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:16:58,950 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:16:58,950 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:16:58,950 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:16:59,057 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1627,"name":"郝处欲","idcard":"513436198806013423","corpname":"上海笑果文化传媒有限公司","teamName":"总包-综艺班组","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":299,"uploadStatus":null,"personGuid":"663B5ED1B64945B88FD150014F753AEE","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:16:59,057 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:16:59,057 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:16:59,057 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:16:59,105 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:16:59,107 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:16:59,107 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806011444', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:16:59,107 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:16:59,107 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:59,108 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:16:59,108 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:59,108 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:16:59,108 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:16:59,108 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:16:59,108 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:16:59,211 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1628,"name":"陈映功","idcard":"513436198806011444","corpname":"上海笑果文化传媒有限公司","teamName":"总包-综艺班组","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":299,"uploadStatus":null,"personGuid":"1B4E9619DBE048089A15A05107F8C8A2","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:16:59,212 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:16:59,212 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:16:59,213 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:16:59,282 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:16:59,285 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:16:59,285 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436198806017280', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:16:59,286 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:16:59,286 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:59,286 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:16:59,286 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:16:59,286 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:16:59,286 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:16:59,286 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:16:59,287 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:16:59,397 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1629,"name":"唐秉地","idcard":"513436198806017280","corpname":"上海笑果文化传媒有限公司","teamName":"总包-综艺班组","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":299,"uploadStatus":null,"personGuid":"9E7E6DD9056F453FA548C419C6D7186E","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:16:59,397 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:16:59,398 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:16:59,398 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:16:59,464 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:23:04,016 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:23:04,017 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436199008019665', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:23:04,017 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:23:04,017 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,017 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:23:04,017 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,018 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:23:04,018 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:23:04,018 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:23:04,018 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:23:04,393 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1630,"name":"习了忠","idcard":"513436199008019665","corpname":"北京爱奇艺科技有限公司","teamName":"分包-电影班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":300,"uploadStatus":null,"personGuid":"4F55EB54DD7141F7A364637C1461C039","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:23:04,394 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:23:04,394 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:23:04,394 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:23:04,495 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:23:04,497 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:23:04,497 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436199008018240', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:23:04,497 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:23:04,497 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,497 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:23:04,498 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,498 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:23:04,498 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:23:04,498 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:23:04,498 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:23:04,594 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1631,"name":"温与极","idcard":"513436199008018240","corpname":"北京爱奇艺科技有限公司","teamName":"分包-电影班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":300,"uploadStatus":null,"personGuid":"111BA8662DAB47E58E6F4C7F964C5926","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:23:04,595 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:23:04,595 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:23:04,595 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:23:04,671 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:23:04,673 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:23:04,673 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436199008019067', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:23:04,673 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:23:04,673 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,673 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:23:04,673 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,673 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:23:04,673 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:23:04,674 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:23:04,674 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:23:04,769 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1632,"name":"钱做只","idcard":"513436199008019067","corpname":"北京爱奇艺科技有限公司","teamName":"分包-电影班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":300,"uploadStatus":null,"personGuid":"6A2E6FBA501F45FDB4E733C458D37784","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:23:04,769 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:23:04,770 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:23:04,770 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:23:04,883 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:23:04,885 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:23:04,885 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436199008013706', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:23:04,885 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:23:04,885 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,885 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:23:04,885 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:04,885 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:23:04,885 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:23:04,885 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:23:04,886 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:23:04,982 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1633,"name":"钱无名","idcard":"513436199008013706","corpname":"北京爱奇艺科技有限公司","teamName":"分包-电影班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":300,"uploadStatus":null,"personGuid":"89262BE1364241BC8A07D181043D68FC","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:23:04,982 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:23:04,982 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:23:04,982 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:23:05,068 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-25 11:23:05,070 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-25 11:23:05,070 test_http_request 行数:38 [日志信息]:测试数据是:{'case_id': 1, 'method': 'post', 'url': '/testconstroction/zuulPersonnel/personnel/person/addWorker', 'json': None, 'param': "{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '513436199008018603', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}", 'correlation': None, 'expect_result': '{"code":0}', 'check_sql': None, 'preposition_sql': None, 'post_sql': None}
+[INFO]2020-02-25 11:23:05,070 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-25 11:23:05,070 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:05,070 config_element 行数:79 [日志信息]:进入计数器方法
+[INFO]2020-02-25 11:23:05,070 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-25 11:23:05,070 config_element 行数:102 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-25 11:23:05,071 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-25 11:23:05,071 post_processor 行数:134 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-25 11:23:05,071 config_element 行数:128 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-25 11:23:05,377 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1634,"name":"习中邓","idcard":"513436199008018603","corpname":"北京爱奇艺科技有限公司","teamName":"分包-电影班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":300,"uploadStatus":null,"personGuid":"BAB867E09C44439C8468A743471D0A2A","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-25 11:23:05,377 test_http_request 行数:74 [日志信息]:开始断言
+[INFO]2020-02-25 11:23:05,377 post_processor 行数:41 [日志信息]:对比成功
+[INFO]2020-02-25 11:23:05,378 test_http_request 行数:77 [日志信息]:预期结果断言正确
+[INFO]2020-02-25 11:23:05,482 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:40:31,651 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:40:31,652 test_http_request 行数:38 [日志信息]:测试数据是:{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '32020519880811796X', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}
+[INFO]2020-02-29 09:40:31,652 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:40:31,652 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:31,653 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:40:31,653 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:31,653 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:40:31,653 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:40:31,653 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:40:31,654 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:40:31,654 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:40:31,669 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:40:52,726 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:40:52,966 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:40:52,966 test_http_request 行数:38 [日志信息]:测试数据是:{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '320205198808118946', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}
+[INFO]2020-02-29 09:40:52,966 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:40:52,966 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:52,966 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:40:52,966 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:52,966 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:40:52,967 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:40:52,967 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:40:52,967 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:40:52,967 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:40:52,968 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:40:53,625 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1636,"name":"覃名眸","idcard":"320205198808118946","corpname":"福建圣景建设发展有限公司","teamName":"建设一班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":304,"uploadStatus":null,"personGuid":"EEBA07621A6B4D049F50B83898C7A4FA","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:40:53,629 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:40:53,633 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:40:53,633 test_http_request 行数:38 [日志信息]:测试数据是:{'Address': '南京市栖霞区百水桥南路6号10幢四单元407室', 'VisaTimes': '0', 'Nation': '汉', 'teamId': '${teamId}', 'FrontImg': '', 'ValidDate': '长期', 'companyId': '${companyId}', 'photo_url': 'http://images2.4000750222.com/gdsmzimages/test/5.jpeg', 'userLife': '2015-11-20 至 长期', 'Base64Photo': {'base64': 'gh.jpg'}, 'CnName': '', 'IssuedData': '20151120', 'Sex': '1', 'Base64Image': '(null)', 'PassNum': '', 'Name': 'randstrName_3', 'Birthday': '1988-06-18', 'fp_feature2': '', 'cardno': '5646518945164', 'EnName': '', 'PhotoName': 'C:Program Files (x86)ZKIDROnline\x08inzp.bmp', 'CardNumber': '', 'CardType': '1', 'backImg': '', 'IDNumber': '320205198808111082', 'IDIssued': '南京市栖霞区公安分局', 'fp_feature1': '', 'ImageName': '', 'Other': '', 'workerId': 'increase_1625'}
+[INFO]2020-02-29 09:40:53,634 test_http_request 行数:39 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:40:53,634 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:53,634 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:40:53,634 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:40:53,635 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:40:53,635 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:40:53,635 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:40:53,635 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:40:53,636 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:40:53,636 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:40:53,760 test_http_request 行数:57 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1637,"name":"赵领曾","idcard":"320205198808111082","corpname":"福建圣景建设发展有限公司","teamName":"建设一班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":304,"uploadStatus":null,"personGuid":"9D813EC0F5594E5481A9A886ED9C8AC8","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:40:53,764 test_http_request 行数:104 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:46:20,935 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:46:20,936 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:46:20,936 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:20,936 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:46:20,937 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:20,937 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:46:20,937 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:46:20,937 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:46:20,937 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:46:20,938 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:46:20,938 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:46:20,938 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'306','FrontImg':'','ValidDate':'长期','companyId':'873','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'张恩看','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808111365','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1638'}
+[INFO]2020-02-29 09:46:21,320 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1638,"name":"张恩看","idcard":"320205198808111365","corpname":"福建圣景建设发展有限公司","teamName":"建设二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":306,"uploadStatus":null,"personGuid":"21C745A2FA4043E18E1B164AB99EF73B","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:46:21,528 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:46:21,532 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:46:21,532 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:46:21,532 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:21,532 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:46:21,532 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:21,532 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:46:21,533 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:46:21,533 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:46:21,533 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:46:21,533 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:46:21,533 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:46:21,534 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'306','FrontImg':'','ValidDate':'长期','companyId':'873','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'习不茫','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808119623','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1639'}
+[INFO]2020-02-29 09:46:21,629 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1639,"name":"习不茫","idcard":"320205198808119623","corpname":"福建圣景建设发展有限公司","teamName":"建设二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":306,"uploadStatus":null,"personGuid":"F44D4C87365C41D985CDFD4A182AD330","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:46:21,630 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:46:21,633 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:46:21,633 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:46:21,633 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:21,633 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:46:21,634 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:46:21,634 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:46:21,634 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:46:21,634 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:46:21,634 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:46:21,635 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:46:21,635 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:46:21,635 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'306','FrontImg':'','ValidDate':'长期','companyId':'873','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'刘任恩','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808115964','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1640'}
+[INFO]2020-02-29 09:46:21,732 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1640,"name":"刘任恩","idcard":"320205198808115964","corpname":"福建圣景建设发展有限公司","teamName":"建设二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":306,"uploadStatus":null,"personGuid":"FAA4856FF2014FF48E2B3819FD737724","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:46:21,734 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:47:28,060 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:47:28,060 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:47:28,060 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,060 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:47:28,060 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,061 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:47:28,061 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:47:28,061 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:47:28,061 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:47:28,062 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:47:28,062 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:47:28,062 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'305','FrontImg':'','ValidDate':'长期','companyId':'874','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'刘圣向','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808117046','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1641'}
+[INFO]2020-02-29 09:47:28,660 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1641,"name":"刘圣向","idcard":"320205198808117046","corpname":"北京爱奇艺科技有限公司","teamName":"爱奇艺二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":305,"uploadStatus":null,"personGuid":"72A5D73935D7442B908BC06F5BF6FE82","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:47:28,665 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:47:28,674 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:47:28,674 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:47:28,674 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,675 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:47:28,675 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,675 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:47:28,675 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:47:28,676 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:47:28,676 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:47:28,677 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:47:28,678 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:47:28,678 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'305','FrontImg':'','ValidDate':'长期','companyId':'874','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'习白之','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808111162','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1642'}
+[INFO]2020-02-29 09:47:28,797 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1642,"name":"习白之","idcard":"320205198808111162","corpname":"北京爱奇艺科技有限公司","teamName":"爱奇艺二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":305,"uploadStatus":null,"personGuid":"3587CFB67A1442519E0FCCC7F4AFBE37","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:47:28,801 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 09:47:28,807 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 09:47:28,807 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 09:47:28,808 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,808 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 09:47:28,808 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 09:47:28,809 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 09:47:28,809 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 09:47:28,809 post_processor 行数:106 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 09:47:28,810 post_processor 行数:135 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 09:47:28,810 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 09:47:28,811 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 09:47:28,811 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'305','FrontImg':'','ValidDate':'长期','companyId':'874','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'潘尾吐','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'320205198808113184','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1643'}
+[INFO]2020-02-29 09:47:28,920 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1643,"name":"潘尾吐","idcard":"320205198808113184","corpname":"北京爱奇艺科技有限公司","teamName":"爱奇艺二班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":305,"uploadStatus":null,"personGuid":"A3BA14B9F5E9487C9440F22A099F3FC9","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 09:47:28,923 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 10:26:50,948 post_processor 行数:94 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:27:12,003 post_processor 行数:94 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:27:24,953 post_processor 行数:94 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:29:06,292 post_processor 行数:94 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:29:11,629 post_processor 行数:94 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:31:34,450 post_processor 行数:98 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:32:33,614 post_processor 行数:98 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:33:06,621 post_processor 行数:98 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:34:49,685 test_http_request 行数:34 [日志信息]:开始测试啦
+[INFO]2020-02-29 10:34:49,685 test_http_request 行数:38 [日志信息]:目前正在执行第1条用例
+[INFO]2020-02-29 10:34:49,686 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 10:34:49,686 config_element 行数:80 [日志信息]:进入计数器方法
+[INFO]2020-02-29 10:34:49,687 config_element 行数:43 [日志信息]:进入参数配置方法
+[INFO]2020-02-29 10:34:49,687 config_element 行数:103 [日志信息]:进入生成随机字符串方法
+[INFO]2020-02-29 10:34:49,687 config_element 行数:53 [日志信息]:参数配置完成^_^
+[INFO]2020-02-29 10:34:49,687 post_processor 行数:110 [日志信息]:*_*进入参数替换方法*_*
+[INFO]2020-02-29 10:34:49,687 post_processor 行数:139 [日志信息]:*_*参数替换完成*_*
+[INFO]2020-02-29 10:34:49,688 config_element 行数:129 [日志信息]:开始处理图片，转换成base64
+[INFO]2020-02-29 10:34:49,688 config_element 行数:136 [日志信息]:图片处理完成^_^
+[INFO]2020-02-29 10:34:49,688 test_http_request 行数:53 [日志信息]:测试数据是:{'Address':'南京市栖霞区百水桥南路6号10幢四单元407室','VisaTimes':'0','Nation':'汉','teamId':'304','FrontImg':'','ValidDate':'长期','companyId':'873','photo_url':'http://images2.4000750222.com/gdsmzimages/test/5.jpeg','userLife':'2015-11-20至长期','Base64Photo':{'base64':'gh.jpg'},'CnName':'','IssuedData':'20151120','Sex':'1','Base64Image':'(null)','PassNum':'','Name':'罗问眸','Birthday':'1988-06-18','fp_feature2':'','cardno':'5646518945164','EnName':'','PhotoName':'C:ProgramFiles(x86)ZKIDROnline\x08inzp.bmp','CardNumber':'','CardType':'1','backImg':'','IDNumber':'513436200002297061','IDIssued':'南京市栖霞区公安分局','fp_feature1':'','ImageName':'','Other':'','workerId':'1644'}
+[INFO]2020-02-29 10:34:50,078 test_http_request 行数:58 [日志信息]:返回值为：{"code":0,"message":"SUCCESS","data":{"id":1644,"name":"罗问眸","idcard":"513436200002297061","corpname":"福建圣景建设发展有限公司","teamName":"建设一班","status":0,"workerType":null,"isImportant":null,"phoneNumber":null,"type":null,"openBank":null,"account":null,"arrivalDate":null,"relativeName":null,"address":null,"emergencyNumber":null,"photoUrl":null,"createTime":null,"createUser":null,"modifyTime":null,"modifyUser":null,"leaveTime":null,"teamId":304,"uploadStatus":null,"personGuid":"26E165CA68DA42EDB3CA589913649113","cardno":"5646518945164","hzUploadState":null}}
+[INFO]2020-02-29 10:34:50,079 post_processor 行数:98 [日志信息]:*_*参数提取成功*_*
+[INFO]2020-02-29 10:34:50,079 test_http_request 行数:75 [日志信息]:开始断言
+[INFO]2020-02-29 10:34:50,079 post_processor 行数:41 [日志信息]:对比成功^_^
+[INFO]2020-02-29 10:34:50,079 test_http_request 行数:78 [日志信息]:预期结果断言正确
+[INFO]2020-02-29 10:34:50,185 test_http_request 行数:105 [日志信息]:结束测试了
+
+[INFO]2020-02-29 13:42:53,044 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:42:53,044 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:43:04,930 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:43:04,930 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:43:07,187 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:43:07,187 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:43:08,294 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:43:08,294 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:43:10,384 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:43:10,385 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:43:43,351 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:43:43,352 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:45:16,238 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:45:16,238 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:45:34,850 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:45:34,851 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:46:29,295 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:46:29,296 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:46:36,750 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:46:36,750 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 13:47:08,757 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 13:47:08,757 post_processor 行数:99 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:44:48,634 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:53:40,842 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:54:39,938 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:54:39,938 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:54:57,834 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:54:57,835 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:55:09,463 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:55:09,463 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:55:31,624 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:56:06,382 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:56:06,382 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:56:21,044 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:56:21,044 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 14:56:34,381 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:58:22,792 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 14:58:22,792 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:00:19,061 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:00:19,062 post_processor 行数:105 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:02:26,754 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:02:26,754 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:04:02,459 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:04:02,460 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:04:49,418 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:04:49,418 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:06:25,717 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:06:25,718 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:30:51,050 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:30:51,051 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:32:34,678 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:32:34,679 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:36:55,154 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:36:55,155 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*
+[INFO]2020-02-29 15:46:01,995 post_processor 行数:72 [日志信息]:*_*进入参数提取方法*_*
+[INFO]2020-02-29 15:46:01,996 post_processor 行数:102 [日志信息]:*_*参数提取完成*_*

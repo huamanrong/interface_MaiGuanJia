@@ -1,0 +1,14 @@
+    生成随机数字 “randint_5”、“randint_00000”、“idrandint_5”、“350301randint_5”
+    计数器，可以按顺序生成编号，且不会重复,书写格式：'ios_increase_0000'、'increase_0005'、'increase_0'
+    生成随机字符串 randstr_3  randstrName_3
+    请求头管理
+    关联参数规则全局化，各个地方使用的规则一致
+    变量：${variable}
+    方法：${__func_name()}
+    方法带参数：${__func_name(*args)}
+    变量或方法进行简单运算：${variable+1}、${__func_name()+1}
+    提取参数支持字典、正则和json提取器提取{'age':''}、变量.data[0].age、暂时不做正则提取
+结果对比支持正则，多个对比方式
+    数据库的前置处理和后置处理
+
+支持websocket请求
