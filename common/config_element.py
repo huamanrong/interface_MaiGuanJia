@@ -8,7 +8,7 @@ import re
 import random
 import base64
 from common import project_path
-from common.my_log import MyLog
+
 surname = ['陈', '王', '潘', '苏', '唐', '郝', '覃', '习', '温', '李', '刘', '赵', '钱', '孙', '罗', '张', '李', '钟']
 string = '山有木兮木有枝 心悦君兮君不知 人生若只如初见 何事秋风悲画扇 十年生死两茫茫 不思量自难忘 曾经沧海难为水' \
      '除却巫山不是云 玲珑骰子安 红豆入骨相思知不 知 只愿君心似我心 定不负相思意 平生不会相思才会 相思便害相思' \
